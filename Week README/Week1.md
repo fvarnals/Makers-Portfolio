@@ -30,11 +30,16 @@ _A weekly journal to keep track of the work I am doing towards each of the goals
 
 Overall it was an exciting week. From being complety lost to fairly easily moving through our weekend challenge. I am sure there are still parts to improve but I feel like I am a better developer today than on Monday!
 
+## This Week
 
-## Tuesday ##
+-TDD
+-Debugging
+-OOD
+-Pairing - Feedback
 
-### Debugging ###
- # Techniques #
+## Tuesday 
+
+## Debugging Techniques 
 
  1. Getting the right process
  2. Exercises -> Program with a number of Apps
@@ -45,9 +50,9 @@ Overall it was an exciting week. From being complety lost to fairly easily movin
  - Don't change your test until you know the answer
 
 
-# Type of Bugs: #
+ Type of Bugs: 
 
-## 1. Structure of the code : ##
+ 1. Structure of the code : 
 - Unexpected Error
 - Syntax
 - Unexpected/ Expected end
@@ -55,56 +60,50 @@ Overall it was an exciting week. From being complety lost to fairly easily movin
 - No method
 - Syntax
 
-## 2. General errors : ##
+ 2. General errors : 
  - Test Fails
  - loops
  - Stack error
 
  - "p" -> use it to return a part of your code (console log)
 
-## Pairing ##
+## Pairing 
 
 1. Driver -> writing code
 2. Navigator -> direct the driver
 
-# NOTE -> Work on one step at the time #
+ NOTE -> Work on one step at the time 
 
-## How did it go?##
+How did it go?
 
  - First pairing session was challenging but we have managed to get far in our code.
 
  - Feedback :
-
+ 
+   Thanks, I would say that you were superb to work with, enjoyable session! Even when we hit walls, I liked that you didn’t panic, (well you didn't show it anyway) you just took your time out to regroup (do ur research) and go again. Also like how you broke down stories quickly, You're very fast at processing.... give your drivers time to catch up.
 
 
 ## Wednesday ##
 
-### Setting SMART goals ###
+Setting SMART goals 
 - Specific
 - Measurable
 - Achievable
 - Relevant
 - Time- bound
 
-## Good Plan -> Do/ Practice -> Reflect/ Feedback & Evidence ##
-
-# This Week #
-
--TDD
--Debugging
--OOD
--Pairing - Feedback
+## Good Plan -> Do/ Practice -> Reflect/ Feedback & Evidence 
 
 
-# How did it go? #
+How did it go? 
 
 - I was focusing on TDD and OOD. I am currently working on a little program which would allow students to input their name and motivation.
 - Pairing: We have moved on on the the Boris Bike challenge. It is getting a little bit more complicated and we were using "Walkthroughs" for a couple of questions. It is much harder to design a new project starting from TDD.
 
 
-## Thursday ##
+## Thursday 
 
-# Reflection Session #
+Reflection Session 
 1. Successes
 - Understanding logic behind tests
 
@@ -114,11 +113,11 @@ I am struggling with starting from testing.
 3. Setting Goals/ Reflecting on goals from yesterday?
 - My Goal is to test and write another class for my TDD project
 
-# Marketing and Careers #
+Marketing and Careers 
 
 - Don't think about finding the job until the very end :) Just focus on coding
 
-## TDD workshop ##
+TDD workshop 
 
 1. Bread down a problem into simple tests.
   - Turn those steps into tests
@@ -127,7 +126,7 @@ I am struggling with starting from testing.
 
 2. Breaking down your problem:
 
-# Working on Roman Numerals #
+ Example: Working on Roman Numerals 
 
 - Don't think how are you going to solve the problem - breaking it down to classes and irb
 
@@ -143,7 +142,7 @@ I am struggling with starting from testing.
    Why are you calling this test and what are you expecting to get back?
    Break it down and make it as simple as possible  and move one to the next simple step in tests etc.
 
-## How did it go?"
+How did it go?
 
 - We have continued with Boris Bikes and i have tried starting another TDD practical.
 - I'm starting to understand testing but i still need instructions and i ask for help.
