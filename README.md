@@ -67,6 +67,6 @@ Click through to any of the following links for more detail.
 
 
 
-[Week 2]
+[Week 2](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week2.md)
 
 [Week 1](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week1.md)
