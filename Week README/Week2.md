@@ -48,11 +48,13 @@ First thing to read is README
 - It is hard to give feedback if you don't know if it's right or wrong
 
 ###  There are many solutions to one problem:
+
     - Options to do things differently
     - Learn other styles to have more options to solve your problems
     - There are no best solutions
 
 ### How to choose best style?
+
     - Consider your team
     - What is typical style of the team
     - Consider the rest of the code
@@ -60,6 +62,7 @@ First thing to read is README
     - use your experience ( be careful around this one! You might have bad habits and stop yourself from developing )
 
 ### Fix the Weather :
+
 Options for technique :
 MOCKING :
   - Doubling
