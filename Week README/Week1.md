@@ -9,18 +9,18 @@ _A weekly journal to keep track of the work I am doing towards each of the goals
 ## Goals
 
 1. Test-drive a simple program using objects and methods
-    - [Test driving 1 project]
+    - [Test driving 1 project](https://github.com/KajaMaria/TDD_Ruby_Students_names_and_motivation)
 
 2. Pair using the driver-navigator style
-    - [Boris Bikes]
+    - [Boris Bikes](https://github.com/KajaMaria/boris_bikes)
 
 3. Follow an effective debugging process
     - Debugging workshop
 
 
 4. Describe some basic OO principles like encapsulation, SRP
-    - [Airport](
-    - [Boris Bikes]
+    - [Airport](https://github.com/KajaMaria/airport_challenge)
+    - [Boris Bikes](https://github.com/KajaMaria/boris_bikes)
 
 
 
