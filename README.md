@@ -35,13 +35,13 @@ Click through to any of the following links for more detail.
 ## Projects
 
 
-[Airport](
+[Airport](https://github.com/KajaMaria/airport_challenge)
 
-[Boris Bikes]
+[Boris Bikes](https://github.com/KajaMaria/boris_bikes)
 
 [OOD - Encapsulation]
 
-[TDD Practice 1]
+[TDD Practice 1](https://github.com/KajaMaria/TDD_Ruby_Students_names_and_motivation)
 
 ------
 
