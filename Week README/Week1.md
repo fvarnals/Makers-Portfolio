@@ -12,50 +12,50 @@ _A weekly journal to keep track of the work I am doing towards each of the goals
     - [Test driving 1 project](https://github.com/KajaMaria/TDD_Ruby_Students_names_and_motivation)
 
 2. Pair using the driver-navigator style
-    - [Boris Bikes](https://github.com/KajaMaria/boris_bikes)
+    - [Boris Bikes](https://github.com/fvarnals/boris-bikes)
 
 3. Follow an effective debugging process
-    - Debugging workshop
-
+    - [Debugging workshop](https://github.com/fvarnals/Debugging-Workshop)
 
 4. Describe some basic OO principles like encapsulation, SRP
-    - [Airport](https://github.com/KajaMaria/airport_challenge)
-    - [Boris Bikes](https://github.com/KajaMaria/boris_bikes)
+    - [Airport](https://github.com/fvarnals/airport_challenge)
+    - [Boris Bikes](https://github.com/fvarnals/boris-bikes)
 
 
 
 ------
 
-## My first week at Makers
+## Week 1 at Makers Academy notes:
 
-Overall it was an exciting week. From being complety lost to fairly easily moving through our weekend challenge. I am sure there are still parts to improve but I feel like I am a better developer today than on Monday!
+The first week was excellent. I now have a far greater understanding of Test Driven Development, how it works and why we use it. I have found that the discipline of using Tests to Drive the production of effective and efficient code pays dividens; particularly when confronted with more complex challenges, where it is invaluable to break the tasks and user requirements down in to logic chunks to be worked on piece by piece. This helps to keep my code DRY, adaptable and readable for other programmers. 
 
 ## This Week
 
 -TDD
 -Debugging
 -OOD
--Pairing - Feedback
+-Pairing (inc Feedback)
 
-## Tuesday 
+### Tuesday 
 
-## Debugging Techniques 
+#### Debugging Techniques 
 
- 1. Getting the right process
- 2. Exercises -> Program with a number of Apps
+ 1. Best practice in processes
+ 2. Exercises - using refactoring and RSpec to identify bugs
 
  Process:
- - Tighten the loop -> Where is the loop
- - Get visibility -> What is the code doing
- - Don't change your test until you know the answer
+ - Tighten the loop -> Where is the loop?
+ - Get visibility -> What is the code doing?
+ - Don't change the tests until you know the answer.
 
 
  Type of Bugs: 
 
  1. Structure of the code : 
 - Unexpected Error
+- Name Error
 - Syntax
-- Unexpected/ Expected end
+- Unexpected/Expected end
 - Nil class
 - No method
 - Syntax
@@ -65,50 +65,44 @@ Overall it was an exciting week. From being complety lost to fairly easily movin
  - loops
  - Stack error
 
- - "p" -> use it to return a part of your code (console log)
+ - use "p"  to return a part of your code (console log).
+ - use rspec -fd to return descripitions colour coded by pass/fail to clearly identify failing areas of tests.
+ - use pry to interact with code to feature test and find bugs. 
 
-## Pairing 
+#### Pairing 
 
-1. Driver -> writing code
-2. Navigator -> direct the driver
+1. Driver -> write code
+2. Navigator -> direct the driver and conduct necessary support research
 
- NOTE -> Work on one step at the time 
+I find the pairing sessions extremely fruitful. Coding with someone who has a very different style, approach and ideas to oneself is an invaluable experience and is fantastic preparation for professional programming. 
+ - Working with someone who is struggling less than you are, is an excellent learning opportunity and humbling experience. 
+ - Working with someone who's struggling a lot more than you are, is an excellent opportunity to test and solidify your technical knowledge, as well as hone your communication skills.
+ - Working with someone who has strongly opposing approaches and opinions to yours is an invaluable opportunity to practice patience, open-mindedness, flexibility, and communication skills.
 
-How did it go?
+I always try to understand the other persons approach and point of view, and learn from it if it's a more effective option, or guide them to understanding why I think it's not the most effective option/won't work if necessary. 
 
- - First pairing session was challenging but we have managed to get far in our code.
-
- - Feedback :
- 
-   Thanks, I would say that you were superb to work with, enjoyable session! Even when we hit walls, I liked that you didn’t panic, (well you didn't show it anyway) you just took your time out to regroup (do ur research) and go again. Also like how you broke down stories quickly, You're very fast at processing.... give your drivers time to catch up.
-
-
-## Wednesday ##
+### Wednesday ###
 
 Setting SMART goals 
 - Specific
 - Measurable
 - Achievable
 - Relevant
-- Time- bound
+- Time-bound
 
-## Good Plan -> Do/ Practice -> Reflect/ Feedback & Evidence 
+#### Good Plan -> Do/Practice -> Reflect/Feedback & Evidence 
 
-
-How did it go? 
-
-- I was focusing on TDD and OOD. I am currently working on a little program which would allow students to input their name and motivation.
-- Pairing: We have moved on on the the Boris Bike challenge. It is getting a little bit more complicated and we were using "Walkthroughs" for a couple of questions. It is much harder to design a new project starting from TDD.
-
-
-## Thursday 
+### Thursday 
 
 Reflection Session 
 1. Successes
-- Understanding logic behind tests
+- Understanding logic behind tests and Unit vs Fearture tests.
+- Better understanding of git.
+- Understanding of Gems, what they are and how to use them.
+- Better understanding of Object Oriented Programming
 
 2. Struggles
-I am struggling with starting from testing.
+- I need to make sure I stick to the TDD process and don't get over excited and jump to far ahead without laying the groundwork/skeleton using TDD first. Although it's tempting to jump ahead, it can lead to falabilities and extraneous code.
 
 3. Setting Goals/ Reflecting on goals from yesterday?
 - My Goal is to test and write another class for my TDD project
@@ -119,7 +113,7 @@ Marketing and Careers
 
 TDD workshop 
 
-1. Bread down a problem into simple tests.
+1. Break down a problem into simple tests.
   - Turn those steps into tests
   - Use tests to TDD a solution
 
@@ -141,14 +135,6 @@ TDD workshop
    I want to /convert/ integer to /Roman Numbers/
    Why are you calling this test and what are you expecting to get back?
    Break it down and make it as simple as possible  and move one to the next simple step in tests etc.
-
-How did it go?
-
-- We have continued with Boris Bikes and i have tried starting another TDD practical.
-- I'm starting to understand testing but i still need instructions and i ask for help.
-- I am having issues creating paths for my code ( what is going to be my class, method, what is going to depend on what)
-- It is much harder staying focused if your pairing partner doesn't really want to be there and uses short cuts without thinking thing over.
-
 
 ## Friday ##
 
