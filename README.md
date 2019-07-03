@@ -1,13 +1,13 @@
-## Kaja Polkowska ##
+## Freddie Varnals ##
 
-This is my learning journey at Makers Academy.
+This is an interactive portfolio of the work I produced at Makers academy.
+It includes individual work and self led learning, as well as challenges undertaken in pair programming sessions, and self directed group project work.
+It also tracks my progress towards developmental goals essential to being a great software developer.
 
-It includes examples of my work, challenges completed, and the processes I have learnt and developed while working towards the following goals.
-
-Click through to any of the following links for more detail.
+Please explore the following links for more detail.
 
 
-## My Goals
+## Goals
 
 #### 1. I can make anything
 
@@ -34,14 +34,13 @@ Click through to any of the following links for more detail.
 
 ## Projects
 
+[Boris Bikes](https://github.com/fvarnals/boris-bikes)
 
-[Airport](https://github.com/KajaMaria/airport_challenge)
-
-[Boris Bikes](https://github.com/KajaMaria/boris_bikes)
+[Airport]
 
 [OOD - Encapsulation]
 
-[TDD Practice 1](https://github.com/KajaMaria/TDD_Ruby_Students_names_and_motivation)
+[TDD Practice 1]
 
 ------
 
@@ -67,6 +66,6 @@ Click through to any of the following links for more detail.
 
 
 
-[Week 2](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week2.md)
+[Week 2]
 
-[Week 1](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week1.md)
+[Week 1]
