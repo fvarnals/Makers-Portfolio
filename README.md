@@ -1,7 +1,7 @@
 # Freddie Varnals #
 
 ## This is a record of my journey at Makers Academy. ##
----
+
 This is an interactive portfolio of the work I produced at Makers academy.
 It includes individual work and self led learning, as well as challenges undertaken in pair programming sessions, and self directed group project work.
 It also tracks my progress towards developmental goals essential to being a great software developer.
