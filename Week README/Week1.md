@@ -44,30 +44,30 @@ The first week was excellent. I now have a far greater understanding of Test Dri
  2. Exercises - using refactoring and RSpec to identify bugs
 
  Process:
- - Tighten the loop -> Where is the loop?
- - Get visibility -> What is the code doing?
- - Don't change the tests until you know the answer.
+   - Tighten the loop -> Where is the loop?
+   - Get visibility -> What is the code doing?
+   - Don't change the tests until you know the answer.
 
 
  Type of Bugs: 
 
  1. Structure of the code : 
-- Unexpected Error
-- Name Error
-- Syntax
-- Unexpected/Expected end
-- Nil class
-- No method
-- Syntax
+  - Unexpected Error
+  - Name Error
+  - Syntax
+  - Unexpected/Expected end
+  - Nil class
+  - No method
+  - Syntax
 
  2. General errors : 
- - Test Fails
- - loops
- - Stack error
+   - Test Fails
+   - loops
+   - Stack error
 
- - use "p"  to return a part of your code (console log).
- - use rspec -fd to return descripitions colour coded by pass/fail to clearly identify failing areas of tests.
- - use pry to interact with code to feature test and find bugs. 
+ - Use "p"  to return a part of your code (console log).
+ - Use rspec -fd to return descripitions colour coded by pass/fail to clearly identify failing areas of tests.
+ - Use pry to interact with code to feature test and find bugs. 
 
 #### Pairing 
 
@@ -84,11 +84,11 @@ I always try to understand the other persons approach and point of view, and lea
 ### Wednesday ###
 
 Setting SMART goals 
-- Specific
-- Measurable
-- Achievable
-- Relevant
-- Time-bound
+  - Specific
+  - Measurable
+  - Achievable
+  - Relevant
+  - Time-bound
 
 #### Good Plan -> Do/Practice -> Reflect/Feedback & Evidence 
 
@@ -96,20 +96,20 @@ Setting SMART goals
 
 Reflection Session 
 1. Successes
-- Understanding logic behind tests and Unit vs Fearture tests.
-- Better understanding of git.
-- Understanding of Gems, what they are and how to use them.
-- Better understanding of Object Oriented Programming
+  - Understanding logic behind tests and Unit vs Fearture tests.
+  - Better understanding of git.
+  - Understanding of Gems, what they are and how to use them.
+  - Better understanding of Object Oriented Programming
 
 2. Struggles
-- I need to make sure I stick to the TDD process and don't get over excited and jump to far ahead without laying the groundwork/skeleton using TDD first. Although it's tempting to jump ahead, it can lead to falabilities and extraneous code.
+  - I need to make sure I stick to the TDD process and don't get over excited and jump to far ahead without laying the groundwork/skeleton using TDD first. Although it's tempting to jump ahead, it can lead to falabilities and extraneous code.
 
 3. Setting Goals/ Reflecting on goals from yesterday?
-- My Goal is to test and write another class for my TDD project
+  - My Goal is to test and write another class for my TDD project
 
 Marketing and Careers 
 
-- Don't think about finding the job until the very end :) Just focus on coding
+  - Don't think about finding the job until the very end :) Just focus on coding
 
 TDD workshop 
 
@@ -120,11 +120,11 @@ TDD workshop
 
 2. Breaking down your problem:
 
- Example: Working on Roman Numerals 
+  Example: Working on Roman Numerals 
 
-- Don't think how are you going to solve the problem - breaking it down to classes and irb
+  - Don't think how are you going to solve the problem - breaking it down to classes and irb
 
-- You want to be able to give an integer and receive a roman numeral:
+  - You want to be able to give an integer and receive a roman numeral:
     When I input number 1 , I can see I
     When I input number 2 , I can see II (...)
     (...) When I input number 7, I can see VII
@@ -140,7 +140,7 @@ TDD workshop
 
 1. How are you tracking your progress?
 
-- What did you do yesterday?
-- What goals are you setting yourself and how are you going to reach them?
-- Are you blocked? - Is anything stopping you?
+  - What did you do yesterday?
+  - What goals are you setting yourself and how are you going to reach them?
+  - Are you blocked? - Is anything stopping you?
 ------
