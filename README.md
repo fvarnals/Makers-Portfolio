@@ -66,6 +66,6 @@ Please explore the following links for more detail.
 
 ## Weekly goals
 
-[Week 1]
+[Week 1](https://github.com/fvarnals/Makers-Portfolio/blob/master/Week%20README/Week1.md)
 
 [Week 2]
