@@ -31,27 +31,25 @@ The first week was excellent. I now have a far greater understanding of Test Dri
 
 ## This Week
 
--TDD
--Debugging
--OOD
--Pairing (inc Feedback)
+- TDD
+- Debugging
+- OOD
+- Pairing (inc Feedback)
 
-### Tuesday 
-
-#### Debugging Techniques 
+### Debugging Techniques 
 
  1. Best practice in processes
  2. Exercises - using refactoring and RSpec to identify bugs
 
- Process:
-   - Tighten the loop -> Where is the loop?
-   - Get visibility -> What is the code doing?
-   - Don't change the tests until you know the answer.
+#### Process:
+- Tighten the loop -> Where is the loop?
+- Get visibility -> What is the code doing?
+- Don't change the tests until you know the answer.
 
 
- Type of Bugs: 
+##### Type of Bugs: 
 
- 1. Structure of the code : 
+1. Structure of the code : 
   - Unexpected Error
   - Name Error
   - Syntax
@@ -60,7 +58,7 @@ The first week was excellent. I now have a far greater understanding of Test Dri
   - No method
   - Syntax
 
- 2. General errors : 
+2. General errors : 
    - Test Fails
    - loops
    - Stack error
@@ -126,8 +124,11 @@ TDD workshop
 
   - You want to be able to give an integer and receive a roman numeral:
     When I input number 1 , I can see I
+    
     When I input number 2 , I can see II (...)
+    
     (...) When I input number 7, I can see VII
+    
     (...) When I input 10, I can see X
 
 
