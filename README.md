@@ -1,6 +1,6 @@
-## Kaja Polkowska ##
+## Freddie Varnals ##
 
-This is my learning journey at Makers Academy.
+This is a record of my journey at Makers Academy.
 
 It includes examples of my work, challenges completed, and the processes I have learnt and developed while working towards the following goals.
 
